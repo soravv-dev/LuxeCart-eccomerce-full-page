@@ -9,7 +9,7 @@ Designed with a luxurious dark theme, smooth animations, reusable components, an
 
 ## 🌐 Live Demo
 
-🔗 https://YOUR-VERCEL-LINK.vercel.app
+🔗 [https://YOUR-VERCEL-LINK.vercel.app](https://luxe-cart-eccomerce-full-page.vercel.app/)
 
 ---
 
