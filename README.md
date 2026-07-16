@@ -15,7 +15,7 @@ Designed with a luxurious dark theme, smooth animations, reusable components, an
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/soravv-dev/YOUR-REPOSITORY
+🔗 [https://github.com/soravv-dev/YOUR-REPOSITORY](https://github.com/soravv-dev/LuxeCart-eccomerce-full-page.git)
 
 ---
 
