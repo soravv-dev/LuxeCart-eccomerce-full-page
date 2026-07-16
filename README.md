@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ LuxeCart – Premium E-Commerce Frontend
 
 A modern, responsive, and premium frontend E-Commerce web application built using **React.js** and **Tailwind CSS**.
@@ -109,3 +110,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/soravv-dev/YOUR-REPOSITORY.git
+=======
+# LuxeCart-eccomerce-full-page
+ ---  # 📌 GitHub Description  Repository Description me ye daal dena:  ```text 🛍️ Premium Luxury E-Commerce Frontend built with React 19, Vite, Tailwind CSS, React Router &amp; Framer Motion.
+>>>>>>> ee7e09d4211c19bda4f8178d1c904d0a30df6026
